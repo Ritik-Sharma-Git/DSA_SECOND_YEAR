@@ -11,6 +11,7 @@ int main()
     cin>>k;
     cout<<"enter element of group"<<endl;
     int arr[n];
+    cont<<"jai shree ram";
     for(int i=0;i<n;i++){
         cin>>arr[i];
     }
