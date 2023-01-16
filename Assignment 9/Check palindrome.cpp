@@ -14,8 +14,3 @@ int Solution::solve(string A) {
     }
     return 1;
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
