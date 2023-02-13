@@ -1,0 +1,4 @@
+https://leetcode.com/problems/first-bad-version/submissions/863036886/
+https://leetcode.com/problems/binary-search/submissions/863023252/
+https://leetcode.com/problems/sqrtx/submissions/863048307/
+https://leetcode.com/problems/guess-number-higher-or-lower/submissions/863050215/
